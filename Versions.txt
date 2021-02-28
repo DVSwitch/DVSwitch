@@ -4,6 +4,6 @@ MMDVM_Bridge version 20210223_V1.6.3 git #bb741c3
 P25Gateway version 20200824
 NXDNGateway version 20200824
 YSFGateway version 20200908
-Version: 1.1.11
+Analog_Reflector version: 1.1.11
 STFU version 0.0.2
 
